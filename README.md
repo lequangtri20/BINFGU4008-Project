@@ -18,6 +18,7 @@ dataset.
 - `Trainer.ipynb`: Include main training loop with customized epoch and bootstraping test errors.
 - `Metrics.ipynb`: Include implementations of metrics (Correlation, R2, MSE, MAE and MAPE) and plotting for evaluation.
 - `Results.ipynb`: Include code to explore results and exporting relevant tables for the report.
+- `Create_Report_Plots.R`: R implementations for other plots.
 
 ## Other links
 - Dataset, Weights, Results and Plots are available at: https://drive.google.com/drive/folders/1DefjK5ear8NeNRqZsclHu5l-c5y3vHcK?usp=drive_link
