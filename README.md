@@ -11,13 +11,13 @@ prediction tasks using the RSNA Pediatric Bone Age Machine Learning Challenge
 dataset.
 
 ## File Descriptions
-- `VGG-16.ipynb, AlexNet.ipynb, ResNet-18.ipynb and ResNet-50.ipynb`: Main implementations of architectured used in the project.
-- `Models.ipynb`: Include parent class for all models. It includes training code for single epoch and validation which are called from `Trainer.ipynb`.
+- `VGG-16.ipynb`, `AlexNet.ipynb`, `ResNet-18.ipynb` and `ResNet-50.ipynb`: Main implementations of architecture used in the project.
+- `Models.ipynb`: Include parent class for all models. It includes training code for a single epoch and validation which are called from `Trainer.ipynb`.
 - `EDA_and_Preprocessing.ipynb`: Include preprocessing code and data exploration.
-- `CustomDataset.ipynb`: Include Pytorch dataset customized for the project.
-- `Trainer.ipynb`: Include main training loop with customized epoch and bootstraping test errors.
+- `CustomDataset.ipynb`: Include the Pytorch dataset customized for the project.
+- `Trainer.ipynb`: Include the main training loop with customized epoch and bootstrapping test errors.
 - `Metrics.ipynb`: Include implementations of metrics (Correlation, R2, MSE, MAE and MAPE) and plotting for evaluation.
-- `Results.ipynb`: Include code to explore results and exporting relevant tables for the report.
+- `Results.ipynb`: Include code to explore results and export relevant tables for the report.
 - `Create_Report_Plots.R`: R implementations for other plots.
 
 ## Other links
