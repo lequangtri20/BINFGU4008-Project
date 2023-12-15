@@ -1,5 +1,7 @@
 # Impact of Model Design on Performance and Gender Bias for Bone Age Prediction Tasks
 
+By: Ryan McNamara (rjm2232) and Tri Le (tql2000)
+
 ## Introduction
 Bone age estimation is a very common procedure conducted on adolescents to
 assess their skeletal maturity. These estimations are crucial for the diagnosis and
